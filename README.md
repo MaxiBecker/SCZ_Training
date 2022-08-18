@@ -1,1 +1,10 @@
 # SCZ_Training
+
+This is the data and R script for the manuscript: 
+"Video game training increases clinical well-being, attention and hippocampal-prefrontal functional connectivity in psychotic patients and controls"
+Authors: Maxi Becker, Djo Juliette Fischer, Jürgen Gallinat & Simone Kühn (2022)
+
+Abstract:
+Video game training has been associated with a range of cognitive improvements associated with structural and functional brain changes. However, due to its complex nature it is currently unknown whether observed effects are due to an increased affordance in spatial exploration or more general game demands. Regardless of the precise mechanisms, patients with psychosis (henceforth patients) suffering from cognitive limitations may benefit from a videogame training as therapeutic strategies targeting cognition are scarce. The goal of the current study was therefore to investigate specific game mechanics and test whether a videogame intervention has beneficial effects on patients’ symptomatology.
+We conducted a longitudinal training study in which patients and healthy controls were randomly assigned to train with a 3D or 2D platformer game or read an E-book (active control). The main difference between both games lies within their affordance for spatial exploration. After a training phase of two months, we observed increased sustained attention in both gaming groups compared to the active control group in patients and healthy controls. Sustained attention was associated with increased functional connectivity in a predefined hippocampal-prefrontal network. Most importantly, we observed a general decrease in symptomatology for patients in both gaming groups compared to the E-book group. 
+The results have important implications: First, video game based effects on cognition are more likely due to general game demands and less due to increased spatial exploration within the game. Second, those videogame interventions could provide a potential therapeutic add-on for patients in regular treatment. 
