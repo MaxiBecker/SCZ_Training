@@ -1,7 +1,7 @@
 # SCZ_Training
 
 This is the data and R script for the manuscript: 
-"Video game training increases clinical well-being, attention and hippocampal-prefrontal functional connectivity in psychotic patients and controls"
+"Video game training increases clinical well-being, attention and hippocampal-prefrontal functional connectivity in schizophrenia"
 Authors: Maxi Becker, Djo Juliette Fischer, Jürgen Gallinat & Simone Kühn (2022)
 
 Abstract:
